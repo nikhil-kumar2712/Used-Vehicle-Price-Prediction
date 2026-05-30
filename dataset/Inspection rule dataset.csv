@@ -1,0 +1,45 @@
+vehicle_type,condition,severity,component,recommendation
+any,high_km,medium,engine,inspect engine wear
+any,high_km,medium,clutch,check clutch condition
+any,old_vehicle,medium,suspension,inspect suspension
+any,more_owners,medium,documents,verify ownership history
+any,low_service_history,high,engine,perform full engine inspection
+car,dent_detected,medium,body,inspect body panels
+car,color_mismatch,medium,body,check repaint or accident history
+car,oil_leak_detected,high,engine,inspect engine leakage
+car,damaged_wiring,high,electrical,inspect wiring system
+car,boot_damage,medium,body,inspect boot area
+car,door_not_smooth,medium,body,check door alignment
+car,lock_issue,medium,electrical,inspect locking system
+car,window_issue,medium,electrical,check window mechanism
+car,interior_damage,medium,interior,inspect cabin condition
+car,odometer_high,medium,engine,verify engine condition
+car,electrical_fault,high,electrical,check electrical system
+car,light_issue,medium,electrical,inspect lights
+car,gear_issue,high,transmission,inspect gearbox
+car,missing_documents,high,legal,verify documents
+car,vin_mismatch,high,legal,verify vehicle identity
+bike,heavy_scratches,medium,body,inspect body damage
+bike,aftermarket_weld,high,chassis,inspect frame alignment
+bike,faded_paint,low,body,check weather damage
+bike,high_usage,medium,engine,inspect engine condition
+bike,irregular_service,high,engine,check maintenance history
+bike,tyre_wear_high,medium,tyres,replace tyres
+bike,rim_damage,high,wheels,inspect rim condition
+bike,engine_noise,high,engine,inspect internal engine parts
+bike,engine_leak,high,engine,check oil leakage
+bike,brake_wear,medium,brakes,replace brake pads
+bike,rust_detected,high,chassis,inspect rust damage
+bike,speedometer_issue,medium,electrical,check speedometer
+bike,accident_history,high,chassis,inspect frame structure
+bike,clutch_slipping,high,clutch,replace clutch components
+bike,seat_damage,low,interior,repair seat cover
+bike,tank_rust,high,fuel_system,inspect fuel tank
+bike,battery_issue,medium,electrical,check battery condition
+bike,suspension_leak,high,suspension,replace suspension seals
+bike,brake_issue,high,brakes,inspect braking system
+bike,chain_wear,medium,chain,replace chain sprocket
+bike,exhaust_rust,medium,exhaust,inspect exhaust system
+bike,exhaust_leak,high,exhaust,fix exhaust leak
+bike,modified_vehicle,medium,engine,verify modifications
+bike,cold_start_issue,high,engine,inspect starting system
